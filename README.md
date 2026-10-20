@@ -1,6 +1,6 @@
 # 英语学习室
 
-安装入口：https://a266963373.github.io/english-learning-room/
+安装入口：https://noulu.github.io/english-learning-room/
 
 ## iPhone 安装
 
